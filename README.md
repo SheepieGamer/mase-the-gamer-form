@@ -14,7 +14,7 @@ Hit the big green CODE button and click "Download ZIP"
 Unzip the ZIP file
 
 ```bash
-cd mase-the-gamer-form-mastermase-the-gamer-form-master
+cd mase-the-gamer-form-master\mase-the-gamer-form-master
 pip install -r requirements.txt
 python main.py
 ```
