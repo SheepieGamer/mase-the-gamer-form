@@ -14,9 +14,9 @@ Hit the big green CODE button and click "Download ZIP"
 Unzip the ZIP file
 
 ```bash
-  cd mase-the-gamer-form\mase-the-gamer-form
-  pip install -r requirements.txt
-  python main.py
+cd mase-the-gamer-form-mastermase-the-gamer-form-master
+pip install -r requirements.txt
+python main.py
 ```
 
 Change the variables in ``tickets/__init__.py`` to the respective IDs that fit your workspace.
